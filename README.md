@@ -1,8 +1,8 @@
-- Olá, sou @felipevidigal ;)
-- Sou interessado em Desenvolvimento Web, porém também me interesso em entrar nos outros mundos do desenvolvimento.
-- Atualmente estou aprendendo HTML e CSS, futuramente Javascript e diversas outras linguagens.
+# 💻 Luiz Felipe | Futuro Desenvolvedor Web
 
-<!---
-felipevidigal/felipevidigal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 
+Olá! Me chamo **Luiz Felipe** e sou estudante do **primeiro semestre de Sistemas para Internet no IFRN Parnamirim, RN**. Tenho grande interesse em **desenvolvimento web** e estou sempre buscando aprender novas tecnologias e linguagens de programação.
+
+### 🛠️ Tecnologias & Aprendizado
+- HTML, CSS 
+- **Iniciando estudos com JavaScript
